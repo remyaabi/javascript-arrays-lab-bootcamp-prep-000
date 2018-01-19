@@ -13,7 +13,7 @@ function destructivelyRemoveLastKitten(){
 }
 function destructivelyRemoveFirstKitten(){
   kittens.shift()
-<<<<<<< HEAD
+
 }
 
 function prependKitten(name){
