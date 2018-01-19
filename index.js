@@ -13,6 +13,7 @@ function destructivelyRemoveLastKitten(){
 }
 function destructivelyRemoveFirstKitten(){
   kittens.shift()
+<<<<<<< HEAD
 }
 
 function prependKitten(name){
@@ -31,3 +32,6 @@ function removeFirstKitten(){
   var kitten2= kittens.slice(1,kittens.length)
   return kitten2
 }
+=======
+}
+>>>>>>> e6a7f959b7bb887517ab74697360b40d14d5c121
